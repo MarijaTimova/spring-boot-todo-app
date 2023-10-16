@@ -6,6 +6,10 @@
 
 In this README, you'll find a comprehensive guide that details your project, enumerates its key functionalities, lists the technologies employed, provides installation instructions, and articulates usage instructions.
 
+![Tasks Empty](https://github.com/adampeer/spring-boot-todo-app/assets/90769663/c5d1dab6-3b96-4907-9d60-2fa807406c06)
+
+![Tasks Full](https://github.com/adampeer/spring-boot-todo-app/assets/90769663/c6379351-e644-4626-8be1-c11c6447591c)
+
 ## Features
 
 ### Task Management
