@@ -55,7 +55,7 @@ In this README, you'll find a comprehensive guide that details your project, enu
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/your-username/awesome-todo-app.git](https://github.com/adampeer/spring-boot-todo-app.git)
+   git clone https://github.com/adampeer/spring-boot-todo-app.git
    cd awesome-todo-app
    ```
 
